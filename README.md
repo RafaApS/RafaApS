@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaApS&show_icons=true&count_private=true&hide_border=true&title_color=7abd87&icon_color=7abd87&text_color=7abd87&bg_color=0d1117" alt="Rafaela Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaApS&layout=compact&hide_border=true&title_color=7abd87&text_color=7abd87&bg_color=0d1117" />
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RafaApS&show_icons=true&count_private=true&hide_border=true&title_color=7abd87&icon_color=7abd87&text_color=7abd87&bg_color=0d1117" alt="Rafaela Santos github stats" /> 
+  <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaApS&layout=compact&hide_border=true&title_color=7abd87&text_color=7abd87&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaApS&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-<h3 align="left" style="color:#7abd87;">Minhas skills:</h3>
+<h3 align="left">Minhas skills:</h3>
 <div align="left"> 
 
 
@@ -37,7 +37,7 @@
 <br> 
 
 
-<h3 align="left" style="color:#7abd87;">Estudando:</h3>
+<h3 align="left">Estudando:</h3>
 
 
 <div align="left"> 
