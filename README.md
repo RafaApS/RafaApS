@@ -15,11 +15,10 @@
 
 
 <div align="center">  
-<a href = "mailto:rafaelaaposantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-### Minhas skills:
+<h3 align="left" style="color:#7abd87;">Minhas skills:</h3>
 <div align="left"> 
 
 
@@ -38,7 +37,7 @@
 <br> 
 
 
-<h2 align="left"> Estudando: </h2>
+<h3 align="left" style="color:#7abd87;">Estudando:</h3>
 
 
 <div align="left"> 
