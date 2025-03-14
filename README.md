@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RafaApS&show_icons=true&count_private=true&hide_border=true&title_color=7abd87&icon_color=7abd87&text_color=7abd87&bg_color=0d1117" alt="Rafaela Santos github stats" /> 
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RafaApS&show_icons=true&count_private=true&hide_border=true&title_color=7abd87&icon_color=7abd87&text_color=7abd87&bg_color=none" alt="Rafaela Santos github stats" /> 
   <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaApS&layout=compact&hide_border=true&title_color=7abd87&text_color=7abd87&bg_color=0d1117" />
 </div>
 
