@@ -7,9 +7,15 @@
 <br>
 
 <div align="center">  
+
+  
   <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RafaApS&show_icons=true&count_private=true&hide_border=true&title_color=7abd87&icon_color=7abd87&text_color=7abd87&bg_color=00000000" alt="Rafaela Santos github stats" /> 
   <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaApS&layout=compact&hide_border=true&title_color=7abd87&text_color=7abd87&bg_color=00000000" />
 </div>
+
+<br clear="both" aling="center">
+
+<img src="https://raw.githubusercontent.com/adrianoasbarbosa/adrianoasbarbosa/output/snake.svg" alt="Snake animation" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaApS&bg_color=00000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -48,7 +54,7 @@
 
 
 <div align="center">
-  
+
 <br>
 <br>
 <br>
