@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-<h3 align="left">Minhas skills:</h3>
+<h3 align="left">My skills:</h3>
 <div align="left"> 
 
 
@@ -46,7 +46,7 @@
 <br> 
 
 
-<h3 align="left">Estudando:</h3>
+<h3 align="left">Studying:</h3>
 
 
 <div align="left"> 
@@ -61,8 +61,28 @@
           
 
 </div>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+<h3 align="left"> Tools & Software I Use:</h3>
+<div align="left"> 
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
+          
+          
+        
+
+          
 
 
+</div>
 <div align="center">
 
 <br>
