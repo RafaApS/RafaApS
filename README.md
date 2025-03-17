@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7abd87&height=120&section=header"/><br>
 <br> 
-<img src="https://raw.githubusercontent.com/RafaApS/RafaApS/output/snake.svg" alt="Snake animation" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Oii%2C+eu+sou+a+Rafaela;Tenho+18+anos;Sou+estudante;Seja+bem+vindo%3A)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Oii%2C+eu+sou+a+Rafaela;Tenho+18+anos;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+FATEC;Seja+bem+vindo(a)!)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -15,10 +15,10 @@
 </div>
 
 <br clear="both" aling="center">
+<img src="https://raw.githubusercontent.com/RafaApS/RafaApS/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/RafaApS/RafaApS/snake.svg" alt="Snake animation" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaApS&bg_color=00000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <div align="center">  
