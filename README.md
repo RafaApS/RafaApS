@@ -14,6 +14,7 @@
   <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaApS&layout=compact&hide_border=true&title_color=7abd87&text_color=7abd87&bg_color=00000000" />
 </div>
 
+<img src="https://raw.githubusercontent.com/RafaApS/RafaApS/output/snake.svg" alt="Snake animation" />
 
 
 
