@@ -5,8 +5,6 @@
 
 <br>
 <br>
-<br>
-
 
 
 ## About Me
@@ -58,7 +56,7 @@ const Rafa = {
 <br>
 
 ## Skills Tech
-
+<br>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,arduino,linux,windows,bootstrap,git,github,figma,vscode,docker&perline=5"/>
@@ -89,26 +87,19 @@ const Rafa = {
 
 ## Social Media
 
+<br>
 <div align="center">
-
 <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7abd87?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a>
 <a href="mailto:rafaelaaposantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=7abd87" target="_blank"></a> 
 </a>
 </div>
 
-
-<div align="center">
-
-
 <br>
 <br>
 <br>
 
-<div align="center">
-  <span>Profile Views</span>
-  <img src="https://komarev.com/ghpvc/?username=RafaApS&style=flat&color=7abd87&label=" alt="Profile views">
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7abd87&height=120&section=footer"/>
 
 
