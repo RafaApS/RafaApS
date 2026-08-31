@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:497051,50:63996E,100:7abd87&text=R%E2%80%89a%E2%80%89f%E2%80%89a%E2%80%89e%E2%80%89l%E2%80%89a%E2%80%89%E2%80%82S%E2%80%89a%E2%80%89n%E2%80%89t%E2%80%89o%E2%80%89s&fontSize=25&fontColor=ffffff&fontFamily=Ubuntu%20Mono&animation=fadeIn&fontAlign=50&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:213324,100:7abd87&text=R%E2%80%89a%E2%80%89f%E2%80%89a%E2%80%89e%E2%80%89l%E2%80%89a%E2%80%89%E2%80%82S%E2%80%89a%E2%80%89n%E2%80%89t%E2%80%89o%E2%80%89s&fontSize=25&fontColor=ffffff&fontFamily=Ubuntu%20Mono&animation=fadeIn&fontAlign=50&fontAlignY=45"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem+vindo%28a%29+ao+meu+perfil!!;+Curioso+para+saber+mais%3F+Dá+uma+olhada%F0%9F%91%80)](https://git.io/typing-svg)
@@ -100,7 +100,7 @@ const Rafa = {
 <br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7abd87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0A100C,100:7abd87,&height=120&section=footer"/>
 
 
 
