@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem+vindo%28a%29+ao+meu+perfil!!;+Curioso+para+saber+mais%3F+Dá+uma+olhada%F0%9F%91%80)](https://git.io/typing-svg)
 
 <br>
-<br>
 
 
 ## About Me
