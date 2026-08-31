@@ -1,100 +1,114 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7abd87&height=120&section=header"/><br>
-<br> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:497051,50:63996E,100:7abd87&text=R%E2%80%89a%E2%80%89f%E2%80%89a%E2%80%89e%E2%80%89l%E2%80%89a%E2%80%89%E2%80%82S%E2%80%89a%E2%80%89n%E2%80%89t%E2%80%89o%E2%80%89s&fontSize=25&fontColor=ffffff&fontFamily=Ubuntu%20Mono&animation=fadeIn&fontAlign=50&fontAlignY=45"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Oii%2C+eu+sou+a+Rafaela!;Seja+bem+vindo%28a%29+ao+meu+perfil!!;+Curioso+para+saber+mais%3F+Dá+uma+olhada%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem+vindo%28a%29+ao+meu+perfil!!;+Curioso+para+saber+mais%3F+Dá+uma+olhada%F0%9F%91%80)](https://git.io/typing-svg)
+
+<br>
+<br>
+<br>
+
+
+
+## About Me
+
+```javascript
+const Rafa = {
+
+ name: "Rafaela Santos",
+
+ location: "São Paulo, Brazil",
+
+ stack: {
+    frontend: [
+      "JavaScript",
+      "TypeScript",
+      "React Native",
+      "Angular"
+      "HTML",
+      "CSS"
+    ],
+
+    backend: [
+      "Java",
+      "Node.js",
+      "PHP",
+      "C++"
+    ],
+
+    database: [
+      "MySQL",
+      "SQL Server",
+      "Firebase"
+    ]
+ },
+
+ tools: [
+   "Git",
+   "GitHub",
+   "Figma",
+   "Canva",
+   "Power BI",
+   "Cisco Packet Tracer",
+ ],
+
+}
+```
 
 <br>
 <br>
 
-<div align="center">  
+## Skills Tech
 
-  <p width="49%" height="185px" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RafaApS&show_icons=true&theme=gotham&hide_border=true&title_color=7abd87&icon_color=7abd87&text_color=7abd87&bg_color=00000000" alt="RafaApS" />
- 
-  <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaApS&layout=compact&hide_border=true&title_color=7abd87&text_color=7abd87&bg_color=00000000" />
-</div>
-
-<img src="https://raw.githubusercontent.com/RafaApS/RafaApS/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
-<div align="center">  
-  <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
-
-<h3 align="left">My skills:</h3>
-<div align="left"> 
-
-
-        
-<img align="left" height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-<img align="left"  height="50" width="50" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-<img align="left"  height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
-
-
-</div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-
-
-<h3 align="left">Studying:</h3>
-
-
-<div align="left"> 
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   
-<img align="left"  height="55" width="55" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-<img align="left"  height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img  align="left"  height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
-          
-          
-
-</div>
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-
-<h3 align="left"> Tools & Software I Use:</h3>
-<div align="left"> 
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-          
-          
-          
-        
-
-          
-
-
-</div>
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=aws,arduino,linux,windows,bootstrap,git,github,figma,vscode,docker&perline=5"/>
+
+</div>
+
 <br>
+<br>
+
+## Projects
+<div align="center">
+  <br>
+
+| 🤖 Project | Description | Repository |
+|---|---|---|
+| Sabor na Mão | Recipe App | https://github.com/RafaApS/Sabor-Na-Mao |
+| Entre Universos | Book Website | https://github.com/RafaApS/Entre_Universos |
+| Espera Zero | Queue Count | https://github.com/RafaApS/Espera_Zero |
+| Clima API | Find out the Temperature | https://github.com/RafaApS/ProjetoClima-API |
+| Dashboard | Violence Against Women | https://github.com/RafaApS/ProjetoDashboard |
+| Feitiço da Cuca | Brazilian Folclore Game | https://github.com/RafaApS/FeiticoDaCuca |
+
+<br>
+
+  <img src="https://raw.githubusercontent.com/RafaApS/RafaApS/output/snake.svg" alt="Snake animation" />
+</div>
+<br>
+
+## Social Media
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7abd87?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</a>
+<a href="mailto:rafaelaaposantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=7abd87" target="_blank"></a> 
+</a>
+</div>
+
+
+<div align="center">
+
+
 <br>
 <br>
 <br>
 
-
-
-
-<br>
-<br> 
+<div align="center">
+  <span>Profile Views</span>
+  <img src="https://komarev.com/ghpvc/?username=RafaApS&style=flat&color=7abd87&label=" alt="Profile views">
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7abd87&height=120&section=footer"/>
 
 
