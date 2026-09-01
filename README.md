@@ -68,7 +68,6 @@ const Rafa = {
 | Espera Zero | Queue Count | https://github.com/RafaApS/Espera_Zero |
 | Clima API | Find out the Temperature | https://github.com/RafaApS/ProjetoClima-API |
 | Dashboard | Violence Against Women | https://github.com/RafaApS/ProjetoDashboard |
-| Feitiço da Cuca | Brazilian Folclore Game | https://github.com/RafaApS/FeiticoDaCuca |
 
 <br>
 
