@@ -45,7 +45,6 @@ const Rafa = {
 ```
 
 <br>
-<br>
 
 ## Skills Tech
 <br>
@@ -55,7 +54,7 @@ const Rafa = {
 
 </div>
 
-<br>
+
 <br>
 
 ## Projects
