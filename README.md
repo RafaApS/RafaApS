@@ -11,10 +11,6 @@
 ```javascript
 const Rafa = {
 
- name: "Rafaela Santos",
-
- location: "São Paulo, Brazil",
-
  stack: {
     frontend: [
       "JavaScript",
