@@ -40,9 +40,6 @@ const Rafa = {
  },
 
  tools: [
-   "Git",
-   "GitHub",
-   "Figma",
    "Canva",
    "Power BI",
    "Cisco Packet Tracer",
