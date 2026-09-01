@@ -80,7 +80,7 @@ const Rafa = {
 
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7abd87?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rafaelaapsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7abd87?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a>
 <a href="mailto:rafaelaaposantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=7abd87" target="_blank"></a> 
 </a>
