@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:213324,100:7abd87&text=R%E2%80%89a%E2%80%89f%E2%80%89a%E2%80%89e%E2%80%89l%E2%80%89a%E2%80%89%E2%80%82S%E2%80%89a%E2%80%89n%E2%80%89t%E2%80%89o%E2%80%89s&fontSize=25&fontColor=ffffff&fontFamily=Ubuntu%20Mono&animation=fadeIn&fontAlign=50&fontAlignY=45"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=20&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=Seja+bem+vindo%28a%29+ao+meu+perfil!!;+Curioso+para+saber+mais%3F+Dá+uma+olhada%F0%9F%91%80)](https://git.io/typing-svg)
 
 <br>
@@ -35,11 +34,6 @@ const Rafa = {
     ]
  },
 
- tools: [
-   "Canva",
-   "Power BI",
-   "Cisco Packet Tracer",
- ],
 
 }
 ```
@@ -49,15 +43,15 @@ const Rafa = {
 ## Skills Tech
 <br>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,arduino,linux,windows,bootstrap,git,github,figma,vscode,docker&perline=5"/>
-
-</div>
+<img src="https://skills.syvixor.com/api/icons?i=powerbi,canva,cisco,aws,arduino,linux,windows,bootstrap,git,github,figma,vscode,docker,spring&perline=7&radius=40" />
 
 
 <br>
+<div align="start">
 
 ## Projects
+
+</div>
 <div align="center">
   <br>
 
@@ -75,8 +69,11 @@ const Rafa = {
 </div>
 <br>
 
+<div align="start">
+
 ## Social Media
 
+</div>
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/rafaelaapsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7abd87?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
